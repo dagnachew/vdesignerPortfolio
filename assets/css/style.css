@@ -94,22 +94,22 @@
 /* Colors */
 
 .bg-primary {
-  background-color: #4F7366 !important;
+  background-color: #BF907E !important;
 }
 
 .bg-success {
-  background-color: #658C7E !important;
+  background-color: #F2C299 !important;
 }
 
 .bg-warning {
-  background-color: #86A69A !important;
+  background-color: #BFAE99 !important;
 }
 
 .bg-danger, .btn-danger {
-  background-color: #8C5C4A !important;
+  background-color: #D9D0C1 !important;
 }
 
 .btn-danger {
-  background-color: #8C5C4A !important;
-  border-color: #8C5C4A !important;
+  background-color: #D9D0C1 !important;
+  border-color: #D9D0C1!important;
 }
