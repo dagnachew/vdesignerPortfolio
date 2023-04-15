@@ -6,4 +6,3 @@ A creative visual designer with strong skills in design, production and delivery
 ### Links 
 Github pages: https://dagnachew.github.io/vdesignerPortfolio/
 
-Heroku: https://desolate-dusk-21463.herokuapp.com/
